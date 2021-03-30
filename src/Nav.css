@@ -11,6 +11,7 @@
     object-fit: contain;
     padding-left: 20px;
     cursor: pointer;
+    z-index: 1;
 }
 .nav{
     position: fixed;
