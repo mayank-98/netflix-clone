@@ -20,6 +20,7 @@ function SignUpScreen() {
             alert(error.message);
         });
     };
+    
 
     const signIn = (e) => {
         e.preventDefault();
